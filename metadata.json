@@ -1,0 +1,5 @@
+{
+  "name": "PocketFlow",
+  "description": "A comprehensive personal finance tracker featuring multi-account management, income/expense tracking, budget visualization, and recurring transaction monitoring.",
+  "requestFramePermissions": []
+}
